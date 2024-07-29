@@ -27,7 +27,7 @@ Run A/B testing to determine wheather to move a gate in the mobile game that for
 ### 3. CRM Analytics: E-commerce Purchase Data
 Having an online mall's purchase data, we'll be doing RFM, Cohort, Segmentation, and Customer Lifetime Value Analysis.
 - Programme language: Python
-- Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scipy
-- Test methods: 
+- Libraries: Numpy, Pandas, Matplotlib, Seaborn, lifetimes
+- Test methods: BetaGeoFitter
 
 👉 <a href="[URL](https://github.com/Cheon-Young-Hwa/data-analyst-portfolio/blob/main/3.crm_analytics_ENG.ipynb)">Click here to view Project 3</a> 
